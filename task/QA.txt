@@ -1,0 +1,45 @@
+Python Variables Tasks:
+Define a variable of type bool 
+	it's take 1 from 2 values __ True Or False
+What Is the benefit of the type method
+	it's return the type of the virable (str,floot,int,.....)
+Can we use semi colon ; with python
+	Yes, We Can
+Python is interpreted or compiled 
+	interpreted 
+What is the differences between low level & high level
+	low level use 0,1 high level use english and convert by compiler or interpreter 
+
+
+
+Python Operators Tasks:
+What is the differences between = , ==
+	= for defenation , == for ask is it equal  
+What do we mean by using !=
+	not equal
+What is the operator precedence 
+	(),*,/,+,-
+
+Python Conditions Tasks:
+In which cases we will use all
+	if we need the condation is true for all vairables 
+What is the differences between all , and
+	we use and in simple statment for more than one condation but "all" if we have a lot of condations ( all of them)
+What is the differences between any , or
+	we use or in simple statment for more than one condation but "any" if we have a lot of condations  ( any one of them)
+If we need all the conditions to be true we will use ….
+	all
+What is the differences between if , elif 
+	if can't reapeted and it's for one case but elif to add more of cases 
+What is the differences between elif else 
+	elif to add more of cases and can repeated but elif can not and its to close if
+Can we use more than one elif
+	yes 
+Can we use more than one else 
+	no
+Python Functions : 
+	In IDLE File
+create a function to sum 2 value , return the result
+write a simple example to show the differences between print & return 
+write a function that multiplies any count of numbers 
+example to show the map , filter , zip , range functions 
